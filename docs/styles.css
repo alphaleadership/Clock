@@ -1,0 +1,17 @@
+
+@import url('https://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMRw.woff2');
+
+
+#digital-clock {
+  background-color: #010707;
+  width: 100%;
+  margin: auto;
+  padding-top: 260px;
+  padding-bottom: 350px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 200px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 204, 255, 0.2), 0 6px 20px 0 rgba(255, 0, 0, 0.19);
+}
+
+#the size is set as per my browser size
